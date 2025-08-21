@@ -5,8 +5,11 @@
 💻 Sobre mim:
 
 👋 Olá! Meu nome é Lucas Coriolano, tenho 18 anos e sou do Rio de Janeiro - RJ.
+<br>
 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na UNISUAM (Centro Universitário Augusto Motta), em Bonsucesso, com previsão de conclusão em julho de 2027.
+<br>
 🚀 Objetivo: Busco uma oportunidade de estágio em TI/Desenvolvimento para aplicar meus conhecimentos, adquirir experiência prática e contribuir ativamente em projetos reais, enquanto continuo evoluindo como desenvolvedor.
+<br>
 
 
 
