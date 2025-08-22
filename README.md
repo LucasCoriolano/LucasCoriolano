@@ -71,8 +71,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoriolano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=LucasCoriolano&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoriolano&layout=compact&theme=tokyonight&t=1)
-
 </p>
