@@ -55,20 +55,10 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasCoriolano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoriolano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=LucasCoriolano&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoriolano&layout=compact&theme=tokyonight&t=1&custom_title=Tecnologias)
 
 </p>
