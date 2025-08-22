@@ -58,12 +58,13 @@
 
 <br/>
 
-<div style="display: flex; gap: 10px; align-items: start;">
+<div style="display: flex; gap: 10px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=LucasCoriolano&show_icons=true&theme=tokyonight" alt="Estatísticas" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoriolano&layout=compact&theme=tokyonight&t=1&custom_title=Tecnologias" alt="Tecnologias" />
 
 </div>
+
 
 </p>
