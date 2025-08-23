@@ -50,6 +50,8 @@
 
 <br> 
 
+---
+
 ## 📚 Projetos da Faculdade
 
 - [Projeto Front End (Telecall) - 1º Período](https://github.com/LucasCoriolano/projeto-final-1periodo)
