@@ -65,6 +65,3 @@
 
 </p>
 
-<img src="https://raw.githubusercontent.com/LucasCoriolano/LucasCoriolano/output/snake.svg" alt="Snake animation" />
-
-###
