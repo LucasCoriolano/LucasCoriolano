@@ -48,6 +48,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+## 📚 Projetos da Faculdade
+
+- [Projeto Front End (Telecall) - 1º Período](https://github.com/LucasCoriolano/projeto-final-1periodo)
+
 <br/>
 <br/>
 
