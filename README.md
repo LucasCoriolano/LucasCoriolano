@@ -59,12 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LucasCoriolano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCoriolano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Tecnologias" height="150" alt="languages graph"  />
 </div>
-
-
-###
-
-<imagem align="center">
-  <source media="(prefers-color-scheme: escuro)" srcset=" https://raw.githubusercontent.com/LucasCoriolano/LucasCoriolano/output/github-contribution-grid-snake-dark.svg ">
-  <source media="(prefere-color-scheme: light)" srcset=" https://raw.githubusercontent.com/LucasCoriolano/LucasCoriolano/output/github-contribution-grid-snake-dark.svg ">
-  <img align="center" alt="Animação de cobra da grade de contribuição do GitHub" src=" https://raw.githubusercontent.com/LucasCoriolano/LucasCoriolano/output/github-contribution-grid-snake.svg ">
-</imagem>
