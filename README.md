@@ -43,7 +43,7 @@
 
 <br/>
 
-### ✰ Entre em Contato!
+### ✰ Let's Connect!
 
 <br/>
 <br/>
