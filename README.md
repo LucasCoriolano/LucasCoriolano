@@ -12,7 +12,7 @@
 
 ---
 
-### ✰ Soft Skills
+### ✰ Tech Stack
 
 <br/>
 
