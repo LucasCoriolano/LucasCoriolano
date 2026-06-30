@@ -13,7 +13,9 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Soft Skills
+
+<br/>
 
 <img 
     align="left" 
@@ -44,6 +46,7 @@
 
 ### .✦ ݁˖ Entre em Contato!
 
+<br/>
 <br/>
 
 <div align="center">
