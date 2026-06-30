@@ -40,9 +40,22 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+### .✦ ݁˖ Entre em Contato!
 
 <br/>
-<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucascr01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="mailto:lucascoriolano777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
 
 ---
 
