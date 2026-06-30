@@ -62,5 +62,16 @@
 
 <br>
 
+###  My GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=LucasCoriolano&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasCoriolano&theme=algolia" alt="Most Commit Language" />
+</div>
+
+<br>
+
 ---
 
