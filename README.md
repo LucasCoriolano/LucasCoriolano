@@ -12,7 +12,7 @@
 
 ---
 
-### 🤖 Soft Skills
+### ✰ Soft Skills
 
 <br/>
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-### .✦ ݁˖ Entre em Contato!
+### ✰ Entre em Contato!
 
 <br/>
 <br/>
@@ -61,7 +61,7 @@
 
 <br>
 
-###  My GitHub Stats
+### ✰ My GitHub Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats">
